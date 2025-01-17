@@ -1,0 +1,179 @@
+.telo-us{
+  overflow-x: hidden;
+}
+.telo1{
+  overflow-x: hidden;
+}
+ul.puni{
+  list-style-type: none;
+  marging: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow:hidden;
+  margin-top:-25px;
+  margin-left:-10px;
+}
+li.peni a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li.peni a.active{
+  background-color: #4CAF50;
+  color: white;
+}
+li.peni a:hover{
+  background-color: #555;
+  color:white;
+}
+.left{
+  padding:1px 16px;
+  height:48px;
+  width:100%;
+  background-color:#f1f1f1;
+  margin-top:-75px;
+  margin-left:-10px;
+  position:fixed;
+
+}
+.text{
+  height:30px;
+  width:200px;
+  margin-top:-15px;
+  color:#6495ED;
+  position: fixed;
+}
+.user{
+  float:right;
+  margin-top:15px;
+  height:48px;
+  width:48px;
+  margin-right:50px;
+}
+.sign-in{
+  text-decoration:none;
+  color:white;
+  background-color:#4CAF50;
+  border-radius:5px;
+  padding:.7px 5.9px;
+}
+.nav3{
+  border:1px solid black;
+  width:300px;
+  border-radius:10px;
+  margin-left:50%;
+  margin-top:250px;
+  background-color: white;
+}
+.text3{
+  text-align: center;
+}
+.nav4{
+  text-align: center;
+}
+.asd{
+  margin-top: 100px;
+  border:1px solid black;
+  border-radius: 10px;
+  width:200px;
+  height:300px;
+}
+.inasd{
+  height:170px;
+  width:100px;
+  margin-left:37px;
+  margin-top: 5px;
+}
+.nav{
+  margin-top: 75px;
+  margin-left:22.5%;
+  font-family: Calibri;
+  font-size: 15pt;
+}
+.left2{
+  padding:1px 16px;
+  height:48px;
+  width:100%;
+  background-color:#f1f1f1;
+  margin-top:-10px;
+  margin-left: -10px;
+}
+.spis{
+  margin-top:50px;
+}
+.pic1{
+  height:190px;
+  width:125px;
+}
+.tepic1{
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.butpic1{
+  height:50px;
+  width:50px;
+  padding: .7em 1.5em;
+  background-color: #4CAF50;
+  border-radius: 20px;
+  text-decoration:none;
+  color:white;
+}
+.pupu{
+  margin-top: 28px;
+  margin-left:50px;
+}
+.pipu{
+  margin-top: 27px;
+  margin-left:50px;
+}
+.ght{
+  margin-left: 51%;
+  margin-top: -460px; 
+  width:300px; 
+}
+.podnav{
+  margin-left: 250px;
+}
+.popo{
+  margin-top:200px;
+  margin-left:35%;
+}
+ul.catalog{
+  margin-left:15%;
+  list-style: none;
+}
+li.catal{
+  float:left;
+  margin-left:5%;
+}
+.pic2{
+  height:190px;
+  width:125px;
+}
+.inasd2{
+  margin-left:37px;
+  margin-top:5px;
+}
+.tepic2{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+ul.spis{
+  list-style-type: none;
+  marging: 0;
+  padding: 0;
+  width: 20%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow:hidden;
+  margin-top:50px;
+  margin-left:-10px;
+}
+.pic3{
+  width:100px;
+}
